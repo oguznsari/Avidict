@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Acronyms>
+  <SMR category="CNS">
+    <meaning>Surface Movement Radar</meaning>
+    <description>Surface Movement Radar (SMR) is radar equipment specifically designed to detect all principal features on the surface of an airport, including aircraft and vehicular traffic, and to present the entire image on a radar indicator console in the control tower.</description>
+  </SMR>
+  <ILS category="CNS">
+    <meaning>Instrument Landing System</meaning>
+    <description>An instrument landing system (ILS) enables aircraft to land if the pilots are unable to establish visual contact with the runway. It does this by way of transmitted radio signals.</description>
+  </ILS>
+  <A-SMGCS category="CNS">
+    <meaning>Advanced Surveillance Movement Guidance Control System</meaning>
+    <description>A system providing routing, guidance and surveillance for the control of aircraft and vehicles in order to maintain the declared surface movement rate under all weather conditions within the AVOL while maintaining the required level of safety.</description>
+  </A-SMGCS>
+  <RVR category="Meteorology">
+    <meaning>Runway Visual Range</meaning>
+    <description>Runway Visual Range (RVR) is the range over which the pilot of an aircraft on the centre line of a runway can see the runway surface markings or the lights delineating the runway or identifying its centre line. (ICAO Annex 6: Operation of Aircraft)</description>
+  </RVR>
+  <ANSP category="ATC">
+    <meaning>Air Navigation Service Provider</meaning>
+    <description>An Air Navigation Service Provider (ANSP) is an organisation that provides the service of managing the aircraft in flight or on the manoeuvering area of an and which is the legitimate holder of that responsibility. (EUROCONTROL EATM Glossary of Terms)</description>
+  </ANSP>
+  <A-SMGCS category="CNS">
+    <meaning>Surface Movement Radar</meaning>
+    <description>No match, please search and add to our library</description>
+  </A-SMGCS>
+</Acronyms>
